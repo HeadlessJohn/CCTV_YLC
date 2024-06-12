@@ -1,4 +1,7 @@
 # 물체 감지 CCTV
+
+<img width = "40%" src="https://private-user-images.githubusercontent.com/159260193/339040495-05c3fa03-3a79-4037-918a-ac47c4e1b544.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgyMDc0NTIsIm5iZiI6MTcxODIwNzE1MiwicGF0aCI6Ii8xNTkyNjAxOTMvMzM5MDQwNDk1LTA1YzNmYTAzLTNhNzktNDAzNy05MThhLWFjNDdjNGUxYjU0NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxMlQxNTQ1NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZGMxYmE0NGQzZDZiMzUzOGM3ZGZlYWFiZGE1NDQ5YmFiYjEzYjkxYWJhYjRhYWMyYjZlY2U5MWJhNTVkZjM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wNF8WbD7uvL4cy2c9dDzEZjUrorcP87Ir4VXWKiq3yA"> 
+
 ## 1. 주요 기능
 ### 1.1 실시간 감시 CCTV
  * 640*480 30fps
@@ -15,3 +18,6 @@
  * 스텝모터를 활용해 전방위 자동 회전 검색
 ### 1.5 수동 회전
  * 수동모드 전환시 조이스틱을 통해 회전 조작 가능
+## 2. 동작 영상
+ * 수동 모드 https://youtu.be/PVMzZIoBT7M 
+ * 자동 모드 https://youtu.be/Yk3DqUKsr6w
